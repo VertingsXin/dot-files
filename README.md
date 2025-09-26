@@ -1,2 +1,2 @@
 # dot-files
-Config Files for Hyprland
+My custom config files.
